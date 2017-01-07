@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Brunel Societies</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_bn_label">Login</string>
+    <string name="sign_up_text">New user? Sign Up</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_con_password">Confirm Password</string>
+    <string name="reg_bn_label">Register</string>
+
+</resources>
